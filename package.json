@@ -1,0 +1,13 @@
+{
+  "name": "real-estate-website",
+  "version": "1.0.0",
+  "description": "Single property real estate website",
+  "scripts": {
+    "start": "servor --reload"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "bootstrap-icons": "^1.11.2",
+    "servor": "^4.0.2"
+  }
+}
